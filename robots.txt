@@ -1,4 +1,4 @@
-#robots.txt for bbbsdeb.github.com, git.bbbs.info
+#robots.txt for ftnapps.github.com
 
 User-agent: *
 
